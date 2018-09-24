@@ -1,0 +1,91 @@
+.block {
+  background-color: black;
+  opacity: 0.8;
+  padding: 10px;
+  width: 50%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.nav-pills {
+  font-family: Lobster;
+  font-size: 30px;
+  background-color: white;
+}
+
+body {
+  background-color: white;
+  font-family: Lobster;
+  color: white;
+}
+
+h1 {
+  padding: 0;
+  margin-top: 0px;
+  font-size: 5em;
+  padding-top: 0%;
+}
+
+.btn-default {
+  background-color: white;
+  color: black;
+  font-size: 1.7em;
+}
+
+.pageOne {
+  background: url("https://kaboompics.com/cache/e/d/2/2/a/ed22ac8d3118535dd2893d17176692f17e0dc28c.jpeg?version=v31");
+  background-size: cover;
+  padding-bottom: 10%;
+}
+
+.pageTwo {
+  background: url("https://kaboompics.com/cache/d/6/2/b/9/d62b9082475c2fe23794938f04c01fa72875d94d.jpeg?version=v31");
+  background-size: cover;
+  height: 800px;
+  padding-top: 5%;
+   padding-bottom: 5%;
+}
+
+.pageThree {
+  background: url("https://kaboompics.com/cache/c/d/b/e/1/cdbe14032175b5ae06e7c44d4b7042a58bfe7e70.jpeg?version=v31");
+  background-size: cover;
+  height: 800px;
+  padding-top: 5%;
+   padding-bottom: 5%;
+}
+
+.pageFour {
+  background: url("https://kaboompics.com/cache/4/a/b/d/8/4abd826635645e07341e3e2f6898052e00915b04.jpeg?version=v31");
+  background-size: cover;
+  padding-top: 5%;
+   padding-bottom: 5%;
+}
+
+p {
+  font-size: 2.2em;
+}
+.footer p {
+  font-size: 15px;
+}
+.paddingBTN {
+    // padding-top: 25%;
+// padding-bottom: 25%;
+
+  width: 200px;
+  margin-bottom: 25px;
+}
+.paddingTop {
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.footer {
+  background-color: black;
+}
+.me {
+  height: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 50%
+}
+
+
